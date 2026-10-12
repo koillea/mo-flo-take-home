@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://riverbend-drilling.example/",
+  "foundation": {
+    "name": "Riverbend Drilling Inc",
+    "description": "Family-owned water well drilling in the Texas Hill Country since 1980.",
+    "website": "https://riverbend-drilling.example/",
+    "industry": "Water Well Drilling",
+    "businessModel": "",
+    "companyRole": "",
+    "yearFounded": "1980",
+    "legalEntityType": "Inc",
+    "employeeCount": "25",
+    "mainAddress": "185 Angel Fire Rd, Dripping Springs, TX, 78620",
+    "otherLocations": [],
+    "serviceLocations": [],
+    "alternateNames": [
+      "Riverbend Well Co",
+      "Riverbend Drilling"
+    ]
+  },
+  "positioning": {
+    "pitch": "Family-owned water well drilling in the Texas Hill Country since 1980.",
+    "foundingStory": "About Us About Riverbend Riverbend was founded in 1980 by a local driller who wanted honest pricing."
+  },
+  "market": {
+    "targetBuyers": [],
+    "customerNeeds": "",
+    "idealPersona": "",
+    "industryGroupings": [],
+    "industryOutlook": "",
+    "channels": [],
+    "funnels": [],
+    "ctas": [
+      "Get a Free Estimate",
+      "Schedule My Inspection"
+    ],
+    "suppliers": []
+  },
+  "branding": {
+    "writingStyle": "",
+    "artStyle": "",
+    "fonts": [
+      "DM Serif Text",
+      "Poppins"
+    ],
+    "colors": [
+      "#1033cf"
+    ],
+    "logos": [
+      "https://riverbend-drilling.example/img/logo.png"
+    ]
+  },
+  "onlinePresence": {
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/company/riverbend-drilling",
+      "facebook": "https://www.facebook.com/RiverbendDrilling",
+      "youtube": "https://www.youtube.com/@riverbenddrilling"
+    },
+    "emails": [
+      "info@riverbend-drilling.example"
+    ],
+    "phones": [
+      "+15122737389"
+    ]
+  },
+  "keyPeople": [
+    {
+      "name": "Jim Blair",
+      "title": "Owner and Driller",
+      "gender": "male",
+      "bio": "Over 30 years in the field."
+    },
+    {
+      "name": "Melanie Ruiz",
+      "title": "Office Manager",
+      "gender": "female",
+      "bio": ""
+    }
+  ],
+  "offerings": [
+    {
+      "name": "Water Well Drilling",
+      "category": "Service",
+      "description": "Residential and agricultural well drilling from permit to hookup.",
+      "price": "0 USD",
+      "features": []
+    },
+    {
+      "name": "Well Inspection",
+      "category": "Service",
+      "description": "Flow testing and a 30-minute pump test.",
+      "price": "",
+      "features": []
+    }
+  ],
+  "thinkBigger": {
+    "testimonials": [
+      "Ethan and his crew solved our pump problem in one afternoon and explained every step along the way.",
+      "Kevin and the team worked late to finish our well on the day they promised. Fair price, too."
+    ],
+    "certifications": [
+      "Licensed and certified by the state",
+      "Member of the National Ground Water Association (NGWA)"
+    ],
+    "faqs": [
+      {
+        "question": "How deep will my well be?",
+        "answer": "Depth depends on local geology; we run a free groundwater study first."
+      }
+    ],
+    "contentThemes": [
+      "Our Services",
+      "Pumping Systems",
+      "Customer Stories"
+    ],
+    "legalLinks": {
+      "privacy": "https://riverbend-drilling.example/privacy-policy",
+      "terms": "https://riverbend-drilling.example/terms"
+    },
+    "bodyExcerpt": "Riverbend Drilling | Water Well Experts About Services Share Privacy Policy Terms of Use Dependable Water Wells Since 1980 Riverbend Drilling is a family-owned company with over forty years of experience serving the Texas Hill Country. Get a Free Estimate Schedule My Inspection Our Services Pumping Systems Customer Stories Ethan and his crew solved our pump problem in one afternoon and explained every step along the way. Kevin and the team worked late to finish our well on the day they promised. Fair price, too. Licensed and certified by the state. Member of the National Ground Water Association (NGWA). Call 512.273.7389 or email info@riverbend-drilling.example. Financing available with 9.99% APR. Fall Water Well Savings this month. 185 Angel Fire Rd, Dripping Springs, TX 78620 © 2026 Riverbend Drilling Inc. Serving since 1980."
+  },
+  "scrapeMeta": {
+    "scrapedAt": "2026-10-12T00:46:05.787Z",
+    "pagesFetched": [
+      "https://riverbend-drilling.example/"
+    ],
+    "missingFields": [],
+    "warnings": []
+  }
+}
